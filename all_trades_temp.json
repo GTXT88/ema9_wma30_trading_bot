@@ -1,0 +1,95 @@
+{
+    "XXBTZUSD": [
+        {
+            "pair": "XXBTZUSD",
+            "ordertype": "limit",
+            "type": "buy",
+            "volume": 2.3080296351005147,
+            "price": 43327.0,
+            "status": "open"
+        },
+        {
+            "pair": "XXBTZUSD",
+            "ordertype": "limit",
+            "type": "sell",
+            "volume": 2.3080296351005147,
+            "price": 43477.0
+        },
+        {
+            "pair": "XXBTZUSD",
+            "ordertype": "limit",
+            "type": "buy",
+            "volume": 2.302051724029307,
+            "price": 43589.9,
+            "status": "open"
+        },
+        {
+            "pair": "XXBTZUSD",
+            "ordertype": "limit",
+            "type": "buy",
+            "volume": -3.338368573538102e-16,
+            "price": 43589.9,
+            "status": "open"
+        },
+        {
+            "pair": "XXBTZUSD",
+            "ordertype": "limit",
+            "type": "buy",
+            "volume": 0.0,
+            "price": 43281.7,
+            "status": "open"
+        },
+        {
+            "pair": "XXBTZUSD",
+            "ordertype": "limit",
+            "type": "sell",
+            "volume": 0.0,
+            "price": 43281.7
+        },
+        {
+            "pair": "XXBTZUSD",
+            "ordertype": "limit",
+            "type": "buy",
+            "volume": 0.0,
+            "price": 43281.7,
+            "status": "open"
+        },
+        {
+            "pair": "XXBTZUSD",
+            "ordertype": "limit",
+            "type": "sell",
+            "volume": 0.0,
+            "price": 43281.7
+        },
+        {
+            "pair": "XXBTZUSD",
+            "ordertype": "limit",
+            "type": "buy",
+            "volume": 0.0,
+            "price": 43281.7,
+            "status": "open"
+        },
+        {
+            "pair": "XXBTZUSD",
+            "ordertype": "limit",
+            "type": "sell",
+            "volume": 0.0,
+            "price": 43281.7
+        },
+        {
+            "pair": "XXBTZUSD",
+            "ordertype": "limit",
+            "type": "buy",
+            "volume": 0.0,
+            "price": 43281.7,
+            "status": "open"
+        },
+        {
+            "pair": "XXBTZUSD",
+            "ordertype": "limit",
+            "type": "sell",
+            "volume": 0.0,
+            "price": 43281.7
+        }
+    ]
+}
